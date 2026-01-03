@@ -138,7 +138,7 @@ Każdy komentarz i udostępnienie to twój głos w internetowej przestrzeni. Ma 
 ### 🐝 Zasada Cyberpszczoły:
 > **Więcej miodu, mniej żądeł:**
 > - Skup się na pozytywnych komentarzach
-> - Chwal częściej niż krytyku jesz
+> - Chwal częściej niż krytykujesz
 > - Dziel się rozwiązaniami, nie tylko problemami
 > - Buduj, nie burz
 
