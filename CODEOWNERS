@@ -1,0 +1,15 @@
+# Code owners for the Cyberpszczoła project
+# Each line is a file pattern followed by one or more owners.
+
+# Default owner for everything in the repository
+* @beatazalewa
+
+# Owners for documentation files
+*. md @beatazalewa
+/README.md @beatazalewa
+
+# Owners for images and assets
+/images/ @beatazalewa
+
+# Owners for license and configuration files
+/LICENSE @beatazalewa
