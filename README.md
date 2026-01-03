@@ -1,7 +1,7 @@
 # 🐝 Cyberpszczoła  
 ### Mniej żądeł, więcej miodu 🍯
 
-![Cyberpszczoła - logo](https://github.com/beatazalewa/cyberpszczola/images/logo.png))
+![Cyberpszczoła - logo](https://github.com/beatazalewa/cyberpszczola/blob/main/images/logo.png)
 
 **Cyberpszczoła** to inicjatywa edukacyjno-społeczna, której celem jest **powrót do korzeni internetu** – czasu, gdy komunikacja online opierała się na **szacunku, empatii i odpowiedzialności**.
 
