@@ -1,7 +1,7 @@
 # 🐝 CyberBee  
 ### Less stings, more honey 🍯
 
-> 🌍 **Language / Język:** [🇵🇱 Polski](README.pl.md) | [🇬🇧 English](README.en.md)
+> 🌍 **Language / Język:** [🇵🇱 Polski](README.pl.md) | [🇬🇧 English](README.en.md) | [🇩🇪 Deutsch](README.de.md)
 
 ![CyberBee - logo](https://github.com/beatazalewa/cyberpszczola/blob/main/images/logo.png)
 
