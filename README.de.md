@@ -2,6 +2,7 @@
 ### Weniger Stiche, mehr Honig 🍯
 
 > 🌍 **Language / Język:** [🇵🇱 Polski](README.pl.md) | [🇬🇧 English](README.en.md) | [🇩🇪 Deutsch](README.de.md)
+> 🌍 **Language / Język:** [🇵🇱 Polski](README.pl.md) | [🇬🇧 English](README.en.md) | [🇩🇪 Deutsch](README.de.md)
 
 ![CyberBiene - logo](https://github.com/beatazalewa/cyberpszczola/blob/main/images/logo.png)
 
