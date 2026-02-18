@@ -1,7 +1,7 @@
 # 🐝 Cyberpszczoła  
 ### Mniej żądeł, więcej miodu 🍯
 
-> 🌍 **Language / Język:** [🇵🇱 Polski](README.pl.md) | [🇬🇧 English](README.en.md)
+> 🌍 **Language / Język:** [🇵🇱 Polski](README.pl.md) | [🇬🇧 English](README.en.md) | [🇩🇪 Deutsch](README.de.md)
 
 ![Cyberpszczoła - logo](https://github.com/beatazalewa/cyberpszczola/blob/main/images/logo.png)
 

@@ -3,6 +3,7 @@
 > 🌍 **Choose your language / Wybierz język:**  
 > - [🇵🇱 Polski](README.pl.md)  
 > - [🇬🇧 English](README.en.md)
+> - [🇩🇪 Deutsch](README.de.md)
 
 ---
 
@@ -29,3 +30,15 @@ Projekt zakłada **napisanie zasad Netykiety od nowa**, dostosowanych do realió
 The project involves **rewriting the rules of Netiquette from scratch**, adapted to the realities of modern social media, AI and algorithms, and instant reaction culture.
 
 🐝 **[Read more in English →](README.en.md)**
+
+---
+
+## 🇩🇪 Deutsch
+
+**CyberBiene** ist eine Bildungs- und Sozialinitiative, die darauf abzielt, **zu den Wurzeln des Internets zurückzukehren** – einer Zeit, in der Online-Kommunikation auf **Respekt, Empathie und Verantwortung** basierte.
+
+### Weniger Stiche, mehr Honig 🍯
+
+Das Projekt beinhaltet das **Neuschreiben der Netiquette-Regeln**, angepasst an die Realitäten moderner sozialer Medien, KI und Algorithmen sowie der Kultur der sofortigen Reaktion.
+
+🐝 **[Mehr auf Deutsch lesen →](README.de.md)**
